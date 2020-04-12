@@ -23,9 +23,9 @@ PROVIDERS="
 84.200.69.80#dnswatch
 93.115.24.204#comss1
 93.115.24.205#comss2
-92.38.139.59#resolvdnscom msk
-195.123.212.102#resolvdnsorg lt
-194.135.80.128#resolvdns samsg lt
+92.38.139.59#resolvdnscom
+195.123.212.102#resolvdnsorg
+194.135.80.128#resolvdnssamsg
 "
 
 # Domains to test. Duplicated domains are ok
