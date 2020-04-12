@@ -20,10 +20,16 @@ PROVIDERS="
 176.103.130.132#adguard 
 156.154.70.3#neustar 
 8.26.56.26#comodo
+84.200.69.80#dnswatch
+93.115.24.204#comss1
+93.115.24.205#comss2
+92.38.139.59#resolvdnscom msk
+195.123.212.102#resolvdnsorg lt
+194.135.80.128#resolvdns samsg lt
 "
 
 # Domains to test. Duplicated domains are ok
-DOMAINS2TEST="www.google.com amazon.com facebook.com www.youtube.com www.reddit.com  wikipedia.org twitter.com gmail.com www.google.com whatsapp.com"
+DOMAINS2TEST="www.google.com facebook.com www.youtube.com www.reddit.com  wikipedia.org twitter.com gmail.com comss.ru pikabu.ru rambler.ru point.md whatsapp.com"
 
 
 totaldomains=0
