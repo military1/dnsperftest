@@ -21,7 +21,7 @@ Includes by default:
 You need to install bc and dig. For Ubuntu:
 
 ```
- $ sudo apt-get install bc dnsutils
+ $ sudo apt-get install git bc dnsutils
 ```
 
 # Utilization
